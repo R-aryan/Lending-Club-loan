@@ -7,7 +7,10 @@ We will be using a subset of the LendingClub DataSet obtained from Kaggle: https
 
 **NOTE: Do not download the full zip from the link! We provide a special version of this file that has some extra feature engineering for you to do. You won't be able to follow along with the original file!**
 
-**The special version of the dataset cab be found **
+**The special version of the dataset cab be found in the below mentioned link (click to get the dataset)**
+
+[Dataset Link](https://drive.google.com/open?id=1Ojz34HYstLagNUPLjgZDhAdvjCdZ5Dxn)
+
 
 Lending Club is a US peer-to-peer lending company, headquartered in San Francisco, California.[3] It was the first peer-to-peer lender to register its offerings as securities with the Securities and Exchange Commission (SEC), and to offer loan trading on a secondary market. LendingClub is the world's largest peer-to-peer lending platform.
 
