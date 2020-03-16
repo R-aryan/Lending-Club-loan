@@ -7,7 +7,7 @@ We will be using a subset of the LendingClub DataSet obtained from Kaggle: https
 
 **NOTE: Do not download the full zip from the link! We provide a special version of this file that has some extra feature engineering for you to do. You won't be able to follow along with the original file!**
 
-**The special version of the dataset cab be found in the below mentioned link (click to get the dataset)**
+**The special version of the dataset cab be found in the below mentioned link (click Below to get the special version of this dataset)**
 
 [Dataset Link](https://drive.google.com/open?id=1Ojz34HYstLagNUPLjgZDhAdvjCdZ5Dxn)
 
